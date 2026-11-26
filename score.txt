@@ -1,3 +1,4 @@
 score=99
 bonus=1
 level=2
+mode=fast
