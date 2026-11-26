@@ -1,2 +1,2 @@
-score=10
+score=99
 bonus=1
